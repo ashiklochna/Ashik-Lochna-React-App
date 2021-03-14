@@ -2,7 +2,7 @@
   "main": {
     "name":"I am Ashik Lochna.",
     "fullname": "Ashik Lochna",
-    "description":"I am a web development engineer and I use react to develop pages. Welcome to my blog page. Feel free to contact me.",
+    "description":"I am a web development engineer and I use react to develop pages. Welcome to my blog page. Feel free to contact me",
     "image":"profilepic.jpg",
     "bio":"I’ve always been a great problem solver, an independent introvert, and a technophile obsessed with the latest devices. Today, as a flexible, quick learner and responsible bilingual programmer, I'm a professional in building responsive and awesome websites for clients.",
     "contactmessage":"Please submit below form along with your queries to contact me. Thank you",
@@ -45,97 +45,69 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Please see below some of my technical skills",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Centennial College, Canada",
+        "degree":"Advanced Diploma in Software Engineering Technology",
+        "graduated":"April 2021",
+        "description":"Developed interactive and responsive websites (ASP.NET Web App, Spring Boot App, React.Js App, Express.Js App), mobile apps, database server, cloud system, and web performance."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"South Metropolitan TAFE, Mauritius",
+        "degree":"Diploma in Software Development",
+        "graduated":"August 2016",
+        "description":"Web applications using pure HTML/CSS and C# applications"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"CDFL (Consodalited Dyeing-Fabric Limited) Knits",
+        "title":"Software Engineer",
+        "years":"March 2017 - January 2020",
+        "description":"Developing responsive web application (React/Spring Boot) UI using HTML/CSS and JavaScript, Designing and implementing HTML templates (React/Spring Boot), responsive interfaces using CSS techniques and JavaScript Libraries, Building stable and maintainable codebases using React, Making database connections"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Tropic Knits LTD",
+        "title":"Junior Software Developer",
+        "years":"January 2016 - March 2016",
+        "description":"Gathering of requirements with clients, Writing basics PL-SQL scripts, Designing of User Interface using Oracle Forms/Reports 11g"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"JavaScript",
+        "level":"75%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"HTML",
         "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
       },
       {
         "name":"JAVA",
         "level":"80%"
-      }
+      },
+    {
+      "name":"C#",
+      "level":"70%"
+    }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"iMenu Project",
+        "category":"My Project for my post-university at Centennial College",
+        "image":"imenuproject.JPG",
+        "url":"https://github.com/ashiklochna?tab=repositories"
       }
     ]
   }
