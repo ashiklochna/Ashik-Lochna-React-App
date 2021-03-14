@@ -1,19 +1,18 @@
 {
   "main": {
-    "name":"I'm Ashik Lochna.",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"I am Ashik Lochna.",
+    "fullname": "Ashik Lochna",
+    "description":"I am a web development engineer and I use react to develop pages. Welcome to my blog page. Feel free to contact me.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I’ve always been a great problem solver, an independent introvert, and a technophile obsessed with the latest devices. Today, as a flexible, quick learner and responsible bilingual programmer, I'm a professional in building responsive and awesome websites for clients.",
+    "contactmessage":"Please submit below form along with your queries to contact me. Thank you",
+    "email": "ashiklochna@gmail.com",
     "github":"https://github.com/ashiklochna",
     "project":"https://github.com/ashiklochna",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Toronto",
+      "province":"Ontario",
+      "country": "Canada"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"https://drive.google.com/file/d/1rTt8K6U-EbrGn9pl5PJCVYxHN1Oxol-1/view?usp=sharing",
