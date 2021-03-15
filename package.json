@@ -4,7 +4,11 @@
   "homepage": "http://ashiklochna.github.io/Ashik-Lochna-React-App",
   "private": true,
   "dependencies": {
+    "@loadable/component": "^5.14.1",
     "anix": "^0.3.3",
+    "emailjs": "^3.4.0",
+    "emailjs-com": "^2.6.4",
+    "feeder-react-feedback": "0.0.6",
     "jquery": "^3.2.1",
     "particles-bg": "^2.3.12",
     "react": "^16.2.0",
